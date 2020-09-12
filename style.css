@@ -27,7 +27,7 @@ body {
   line-height: 1; }
 
 #bg {
-    background-image: url("https://unsplash.com/photos/67l-QujB14w.jpg");
+    background-image: url('https://raw.githubusercontent.com/aqsax/index/master/images/landing.jpg');
     height: 100%;
     width: 100%;
     background-position: center;
