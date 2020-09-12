@@ -28,8 +28,8 @@ body {
 
 #bg {
     background-image: url('https://raw.githubusercontent.com/aqsax/index/master/images/landing.jpg');
-    height: 100%;
-    width: 100%;
+    max-width: 100%;
+    height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
